@@ -1,0 +1,21 @@
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\bin\Debug\net7.0-windows10.0.17763.0\WiFi Viewer By Starlyn1232.exe
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\bin\Debug\net7.0-windows10.0.17763.0\WiFi Viewer By Starlyn1232.deps.json
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\bin\Debug\net7.0-windows10.0.17763.0\WiFi Viewer By Starlyn1232.runtimeconfig.json
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\bin\Debug\net7.0-windows10.0.17763.0\WiFi Viewer By Starlyn1232.dll
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\bin\Debug\net7.0-windows10.0.17763.0\WiFi Viewer By Starlyn1232.pdb
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\bin\Debug\net7.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\bin\Debug\net7.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFiViewer.csproj.AssemblyReference.cache
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFiViewer.Main.resources
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFiViewer.Properties.Resources.resources
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFiViewer.csproj.GenerateResource.cache
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFiViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFiViewer.AssemblyInfoInputs.cache
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFiViewer.AssemblyInfo.cs
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFiViewer.csproj.CoreCompileInputs.cache
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFiViewer.csproj.CopyComplete
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFi Viewer By Starlyn1232.dll
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\refint\WiFi Viewer By Starlyn1232.dll
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFi Viewer By Starlyn1232.pdb
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\WiFiViewer.genruntimeconfig.cache
+C:\Users\aiiny\OneDrive\Documents\Projects\WiFi Viewer\SRC\WiFiViewer\obj\Debug\net7.0-windows10.0.17763.0\ref\WiFi Viewer By Starlyn1232.dll

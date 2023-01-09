@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jeJZWqs19kTK3pHJ2jc6uPkU5g32Wmm27NwBojY9xbj1HViGrx9/wnW7rVIGet7yGF2m2w9wqkAMgB35dJMeBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aiiny\\OneDrive\\Documents\\Projects\\WiFi Viewer\\SRC\\WiFiViewer\\WiFiViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aiiny\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.28\\microsoft.windows.sdk.net.ref.10.0.17763.28.nupkg.sha512"
+  ],
+  "logs": []
+}

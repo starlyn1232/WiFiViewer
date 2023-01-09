@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows10.0.17763.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>WiFiViewer.Program</StartupObject>
+    <AssemblyName>WiFi Viewer By Starlyn1232</AssemblyName>
+    <ApplicationIcon>Wi-Fi_43577.ico</ApplicationIcon>
+    <PlatformTarget>x86</PlatformTarget>
+    <Authors>Starlyn1232</Authors>
+    <Company>Lazybrainlabs</Company>
+    <Description>WiFi Viewer By Starlyn1232</Description>
+    <Copyright>Lazybrainlabs</Copyright>
+    <PackageIcon>Wi-Fi_43577.png</PackageIcon>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Wi-Fi_43577.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\Media\Wi-Fi_43577.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
